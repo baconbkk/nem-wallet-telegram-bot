@@ -1,0 +1,7 @@
+{
+	"mainNet": false,
+	"host": "localhost",
+	"telegram_key": "578525050:AAEoHBCFEKbzEPE8xfIbMA8oLuwLmULULVw",
+	"local_port": 7777,
+	"intervalTime": 5
+}

@@ -1,0 +1,14 @@
+Wallet Address:
+TAZB6W5B5RTJJA5XOGXLHOE24JUY35CTR3A3TEKG
+
+
+Here is your new wallet information: ***Please save it and dont lose it
+Wallet Name:
+temptestwallet
+
+Password:
+Password1
+
+Raw Wallet:
+
+eyJuYW1lIjoidGVtcHRlc3R3YWxsZXQiLCJhY2NvdW50cyI6eyIwIjp7ImJyYWluIjpmYWxzZSwiYWxnbyI6InBhc3M6ZW5jIiwiZW5jcnlwdGVkIjoiMmU5NDMwM2QxNGEyZmEzN2JhYjNmNjlmNjc1MWRjYTZmNzAxMTJjNzdjNzBhYWEzMjBiYjhkM2NhNmUzYThmNWMzZjdlNWNjMTdiMDZmNTUwZDliMWE2NDMwMTM0OTlhIiwiaXYiOiI0N2Y5ODIzOTM5NmRlZjQ3ZjczYTk5MmQ4OTVjYWRjNSIsImFkZHJlc3MiOiJUQVpCNlc1QjVSVEpKQTVYT0dYTEhPRTI0SlVZMzVDVFIzQTNURUtHIiwibGFiZWwiOiJQcmltYXJ5IiwibmV0d29yayI6LTEwNH19fQ==
